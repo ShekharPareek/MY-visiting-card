@@ -78,7 +78,7 @@ h2 {
     transition: width 0.8s ease;
 }
 
-.content:hover #bg-green {
+.content,.contact-me:hover #bg-green {
     width: 38%;
     color: black;
 }
