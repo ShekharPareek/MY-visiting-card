@@ -79,7 +79,7 @@ h2 {
 }
 
 .contact-me:hover #bg-green {
-    width: 56%;
+    width: 38%;
     color: black;
 }
 
@@ -88,9 +88,9 @@ h2 {
 }
 
 .contact-me:hover .arrow-key {
-    bottom: 2px;
     color: #222;
     font-weight: 700;
+    margin-left: 5px;
 }
 
 .contact-me>a {
@@ -101,7 +101,7 @@ h2 {
 }
 
 .arrow-key {
-    margin-left: 7px;
+    margin-left: 0px;
     cursor: pointer;
     transition: all 0.3s ease;
     position: relative;
@@ -170,7 +170,7 @@ h2 {
         padding-left: 25px;
     }
     .contact-me:hover #bg-green {
-        width: 50%;
+        margin-top: -3px;
     }
     .container {
         width: 92%;
